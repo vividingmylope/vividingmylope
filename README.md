@@ -1,6 +1,4 @@
-${{\color{#25132a}{\textsf{G}}}}$ ${{\color{#2d182f}{\textsf{r}}}}$ ${{\color{#351e34}{\textsf{i}}}}$
-${{\color{#3d2438}{\textsf{l}}}}$
-${{\color{#45293d}{\textsf{l}}}}$
+${{\color{#25132a}{\textsf{G}}}}{\color{#2d182f}{{\textsf{r}}}}{{\color{#351e34}{\textsf{i}}}}{{\color{#3d2438}{\textsf{l}}}}{{\color{#45293d}{\textsf{l}}}}$
  ${{\color{#4d3042}{\textsf{/}}}}$ ${{\color{#563647}{\textsf{S}}}}$
 
 
