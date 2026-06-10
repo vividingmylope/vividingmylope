@@ -1,3 +1,5 @@
+<img width="1001" height="1011" alt="Cherrycherryyy_20260610213653" src="https://github.com/user-attachments/assets/a84d5d5b-4758-40e9-bcd5-eed9a918d512" />
+
 ${{\color{#25132a}{\textsf{𝗚}}}}{\color{#2d182f}{{\textsf{r}}}}{{\color{#351e34}{\textsf{i}}}}{{\color{#3d2438}{\textsf{l}}}}{{\color{#45293d}{\textsf{l}}}}$
  ${{\color{#4d3042}{\textsf{/}}}}$ ${{\color{#563647}{\textsf{𝗦}}}}{{\color{#5e3c4b}{\textsf{t}}}}{{\color{#664350}{\textsf{a}}}}{{\color{#6e4a55}{\textsf{c}}}}{{\color{#75515a}{\textsf{y}}}}$
 
